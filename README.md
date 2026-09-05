@@ -15,3 +15,14 @@
 3. The Traffic Signal Streak Analyzer
 4. The Warehouse Inventory Balancer
 5. The Movie Review Word Length Profiler
+
+---
+
+## Session 2: String Built-in Methods & Validation
+
+### Practice Problems / Class Problems
+1. Vowel & Consonant Counter
+2. CSV Student Record Parser
+3. File Extension Validator
+4. Masked Phone Number Formatter
+5. Bank Transaction Reference Generator & Validator
