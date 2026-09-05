@@ -20,9 +20,16 @@
 
 ## Session 2: String Built-in Methods & Validation
 
-### Practice Problems / Class Problems
+### Class Problems
 1. Vowel & Consonant Counter
 2. CSV Student Record Parser
 3. File Extension Validator
 4. Masked Phone Number Formatter
 5. Bank Transaction Reference Generator & Validator
+
+### Assignment Problems
+1. ATM PIN Length Validator
+2. Word Reversal Encoder
+3. Product Inventory CSV Parser
+4. Library ISBN Normalizer & Validator
+5. Stop-Word-Filtered Word Frequency Report
