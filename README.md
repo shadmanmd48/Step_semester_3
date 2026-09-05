@@ -1,30 +1,28 @@
 # Step Semester 3
 
-Repository for Step Semester 3 coursework, tracking daily progress, practice sessions, and assignments.
+## Session 1: Strings & Arrays
+
+### Class Problems
+1. First Non-Repeating Character
+2. Reverse Customer Name
+3. Rock-Paper-Scissors Game
+4. Palindrome Checker (3 Approaches)
+5. BMI Calculator for a Team
+
+### Assignment Problems
+1. The Exam Hall Seat Duplication Checker
+2. The Typing Speed Test Accuracy Checker
+3. The Traffic Signal Streak Analyzer
+4. The Warehouse Inventory Balancer
+5. The Movie Review Word Length Profiler
 
 ---
 
-## Daily Log
+## Session 2: String Built-in Methods & Validation
 
-### [2026-09-05] - Session 1
-- **Work Done:**
-  - Initialized repository branching structure (`main`, `develop`, `feature/session_1`).
-  - Implemented String manipulation problems:
-    - First Non-Repeating Character (array-based frequency scanning)
-    - Reverse Customer Name (character array manipulation)
-  - Implemented practice & assignment problems:
-    - Rock-Paper-Scissors Game simulator
-    - Palindrome Checker (Iterative, Recursive, and Array Reversal approaches)
-    - BMI Calculator for a Team with health classification report
-- **Next Steps:**
-  - Complete Session 2 coursework and assignments on the upcoming topic.
-  - Merge verified feature branches into `develop` as per Git workflow.
-- **Issues / Blockers:**
-  - None encountered. All basic logic and edge cases validated.
-
----
-
-## Branching Strategy
-- **`main`**: Production/documentation branch containing project logs and overviews.
-- **`develop`**: Integration branch with base project structure.
-- **`feature/session_n`**: Session-wise feature branches containing topic folders with `class_problems/` and `assigment_problems/`.
+### Practice Problems / Class Problems
+1. Vowel & Consonant Counter
+2. CSV Student Record Parser
+3. File Extension Validator
+4. Masked Phone Number Formatter
+5. Bank Transaction Reference Generator & Validator
