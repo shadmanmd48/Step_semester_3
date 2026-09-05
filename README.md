@@ -33,3 +33,21 @@
 3. Product Inventory CSV Parser
 4. Library ISBN Normalizer & Validator
 5. Stop-Word-Filtered Word Frequency Report
+
+---
+
+## Session 3: OOP Basics (Classes, Objects, Constructors & Static Fields)
+
+### Class Problems
+1. Simple Student Record Class
+2. Two Objects, Two Separate States
+3. Reading Java's Default Field Values
+4. Basic Constructor for a Course
+5. Counting Objects With a Static Field
+
+### Assignment Problems
+1. Simple Book Record Class
+2. Two Objects, Two Separate Occupancy Counts
+3. Reading Java's Default Field Values
+4. Basic Constructor for a Product
+5. Counting Objects With a Static Field
