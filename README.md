@@ -69,3 +69,23 @@
 3. 3Sum
 4. Subarray Sum Equals K
 5. Find Minimum in Rotated Sorted Array
+
+---
+
+## Session 5: Array Practice & Method Design (Single-Pass, 2D Arrays & Custom Objects)
+
+### Class Problems
+1. Hackathon Score Curve Booster
+2. Duplicate Team Name Finder
+3. Top-3 Podium Finder
+4. Hackathon Seating Grid Optimizer
+5. Placement Drive Shortlisting & Ranking Engine
+
+### Assignment Problems
+1. Fantasy Team Score Multiplier
+2. Duplicate Player Pick Checker
+3. Top Performer Tracker
+4. Match Day Grid Analyzer
+5. Fantasy League Auto-Draft Ranking Engine
+
+
